@@ -1,6 +1,6 @@
 # ABOUT FNS Corporation 
 
-<img src="assets/FSA_logo.png" width="300" height="auto" />
+<img src="assets/FSA_logo.png" width="250" height="auto" />
 
 FSA Corporation is an innovative Malaysian company founded in 2022. We are expert Data Scientists delivering machine recognition services. Leveraging our in-depth knowledge of machine learning and recognition module , we build tools with high value, short deployment time and low impact on resources.
 
@@ -15,7 +15,7 @@ We’re putting modern AI into the hands of businesses – so they can do new, a
 ## OUR TEAM
 **CHIEF EXECUTIVE OFFICIAL (CEO)**
 
-<img src="assets/Faezah.jpeg" width="300" height="auto" />
+<img src="assets/Faezah.jpeg" width="250" height="auto" />
 
 **NUR FAEZAH BINTI ABDUL RAUF**
 
