@@ -14,13 +14,13 @@ We change the way of how people think about AI and change their life habit.
 
 <img src="assets/Faezah.jpeg" width="200" height="auto" />
 
-**QUEK YAO JING**
+**NUR FAEZAH BINTI ABDUL RAUF**
 
-Resposiblity:
-1. Manage the company staff and organization workflow
-2. Making major corporate decisions 
-3. Manage and allocate the resources of the company
-4. Make sure project meet the dateline
+Responsibility:
+1. Control the workforce and personnel of the corporation.
+2. Making significant business choices
+3. Control and distribute the company's resources
+4. Ensure the job is completed by the deadline.
 
 <br>
 
@@ -31,10 +31,10 @@ Resposiblity:
 **MUHAMMAD SYAHIR BIN MOHD RASHIDI**
 
 Responsibility:
-1. Report directly to CEO on any project progress and status
-2. Identify risks and threat that might be happened in the company
-3. Aids CEO in attending public events and meet more people on the community
-4. Maintain public relations with other members of the company
+1. Describe any project's status and progress directly to the CEO.
+2. Identify potential risks and threats to the business.
+3. Encourages the CEO to attend community activities and interact with more people
+4. Keep the company's other employees in the public eye.
 
 <br>
 
@@ -45,10 +45,10 @@ Responsibility:
 **MUHAMMAD ANASS BIN SULAIMAN**
 
 Responsiblity:
-1. Make decision on the car plate recognition technology needed
-2. Create the policy for the company to unsure a safe and secure development and production environment
-3. Communicate with all levels to make sure the ideas and project are able to be delivered
-4. Manage the technical staff available in the company and seprate the task based on their expertise
+1. Choose the necessary vehicle plate recognition technology.
+2. Communicate with all levels to ensure that the ideas and project can be fulfilled. 
+3. Develop the strategy for the organisation to provide a safe and secure development and production environment.
+4. Manage the technical team that the organisation has on hand and divide the tasks according to their areas of competence.
 
 
 <br>
