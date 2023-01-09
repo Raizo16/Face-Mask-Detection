@@ -1,4 +1,4 @@
-# ABOUT FNS Corporation 
+# ABOUT FSA Corporation 
 
 <img src="assets/FSA_logo.png" width="250" height="auto" />
 
