@@ -7,7 +7,7 @@ The rapid development of computer vision has attracted more attention to the glo
 In our face mask detection system, a camera will be positioned at the entrance door of each possible entrance. The camera will automatically recognize whether the personal that entering the mall is wearing mask or not wearing mask. In this project, our **main focus will be on the face mask detection and recognition module**. This is the very first step in developing the face mask detection system in Lotus mall. 
 
 
-###  Customer: Lotuss Stores (Malaysia) Sdn Bhd
+###  Customer: Lotus's Stores (Malaysia) Sdn Bhd
 
 ### Project Name: FACE MASK DETECTION SYSTEM
 
