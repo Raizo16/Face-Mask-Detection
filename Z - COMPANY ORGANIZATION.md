@@ -7,10 +7,10 @@ A group of 3 eager UTeM students that are interested in AI founded this company
 Based in Malacca,Malaysia. 
 
 ## OUR MISSION
-EASE PEOPLE NEEDS 
+Artificial intelligence that emphasizes authentic human connections.
 
 ## Innovation
-We change the way of how people think about AI and change their life habit. 
+We’re putting modern AI into the hands of businesses – so they can do new, awesome things.
 
 ## OUR TEAM
 **CHIEF EXECUTIVE OFFICIAL (CEO)**
