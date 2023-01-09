@@ -1,4 +1,7 @@
 # ABOUT FNS Corporation 
+
+<img src="assets/FSA_logo.png" width="200" height="auto" />
+
 A group of 3 eager UTeM students that are interested in AI founded this company. They are passionate about AI software and products and want to make AI more widely available.
 
 Based in Malacca,Malaysia. 
