@@ -29,7 +29,7 @@ Responsibility:
 
 **CHIEF OPERATING OFFICIAL (COO)**
 
-<img src="assets/Syahir.jpg" width="200" height="auto" />
+<img src="assets/Syahir.jpg" width="250" height="auto" />
 
 **MUHAMMAD SYAHIR BIN MOHD RASHIDI**
 
