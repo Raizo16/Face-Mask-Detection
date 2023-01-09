@@ -3,7 +3,9 @@
 ## C. IMPLEMENTING THE PROJECT PLAN
 ### Deliverables:
 Hardware Requirement:
+
 <img src="assets/Implementation/Predator.jpg" width="250" height="auto" />
+
 Our crew utilises an Acer Predator Helios 300 laptop with an Intel Core i7 processor and 16GB of RAM to carry out our project.
 
 #### Software Requirement:
