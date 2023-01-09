@@ -2,7 +2,7 @@
 
 <img src="assets/FSA_logo.png" width="200" height="auto" />
 
-A group of 3 eager UTeM students that are interested in AI founded this company. They are passionate about AI software and products and want to make AI more widely available.
+FSA Corporation is an innovative Malaysian company founded in 2022. We are expert Data Scientists delivering machine recognition services. Leveraging our in-depth knowledge of machine learning and recognition module , we build tools with high value, short deployment time and low impact on resources.
 
 Based in Malacca,Malaysia. 
 
