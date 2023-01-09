@@ -43,7 +43,7 @@ Responsibility:
 
 **CHIEF TECHNOLOGY OFFICIAL (CTO)**
 
-<img src="assets/tlh.jpeg" width="200" height="auto" />
+<img src="assets/Anass.jpeg" width="250" height="auto" />
 
 **MUHAMMAD ANASS BIN SULAIMAN**
 
