@@ -17,9 +17,9 @@ Our team implemented the code for the deep learning module in the programme usin
 
 #### Intelligent System Architecture:
 TensorFlow, a machine learning and artificial intelligence software library, is the foundation of our system. We focused on deep neural network training utilising the TensorFlow framework for our research.
-WPOD-Net architecture:
+TensorFlow architecture:
 
-<img src="assets/implementation/tenserflow.png" width="100%">
+<img src="assets/Implementation/tenserflow.png" width="250" height="auto" />
 
 #### Outcomes of the system
 2 main steps will be applied in our system, which is license plate detection and character recognition. Given an input image, the first steps are to detect the license plate using Warped Planar Object Detection Network (WPOOD-Net) and regresses one affine transformation per detection, allowing a rectification of the license plate area to a rectangle resembling a frontal view. These positive and rectified detections are fed to an OCR network for final character recognition. 
