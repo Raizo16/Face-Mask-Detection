@@ -24,6 +24,7 @@ TensorFlow architecture:
 
 #### Outcomes of the system
 In the result section, we will choose a random image and, using the accuracy of our model, forecast whether or not the subject is wearing a mask. 
+
 Below is the outcome:
 
 <img src="assets/Implementation/Result.png" width="800" height="auto" />
