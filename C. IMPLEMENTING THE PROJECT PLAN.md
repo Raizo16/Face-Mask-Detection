@@ -29,6 +29,8 @@ TensorFlow architecture:
 
 <img src="assets/Implementation/Output2.png" width="800" height="auto" />
 
+<img src="assets/Implementation/Result.png" width="800" height="auto" />
+
 ### Tasks and Estimated Costs
 
 | Task |  Estimated Costs | Notes |
