@@ -23,11 +23,7 @@ TensorFlow architecture:
 <img src="assets/Implementation/tenserflow.png" width="800" height="auto" />
 
 #### Outcomes of the system
-2 main steps will be applied in our system, which is license plate detection and character recognition. Given an input image, the first steps are to detect the license plate using Warped Planar Object Detection Network (WPOOD-Net) and regresses one affine transformation per detection, allowing a rectification of the license plate area to a rectangle resembling a frontal view. These positive and rectified detections are fed to an OCR network for final character recognition. 
-
-<img src="assets/Implementation/Output1.png" width="800" height="auto" />
-
-<img src="assets/Implementation/Output2.png" width="800" height="auto" />
+In the result section, we will choose a random image and, using the accuracy of our model, forecast whether or not the subject is wearing a mask. Below is the outcome:
 
 <img src="assets/Implementation/Result.png" width="800" height="auto" />
 
