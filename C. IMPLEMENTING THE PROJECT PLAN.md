@@ -9,7 +9,11 @@ Hardware Requirement:
 Our crew utilises an Acer Predator Helios 300 laptop with an Intel Core i7 processor and 16GB of RAM to carry out our project.
 
 #### Software Requirement:
-For the software, our group used python programming language to implement the code for intelligent module in recognizing car plate and PHP programming language to design the website and database connection. 
+
+
+<img src="assets/Implementation/Jupyter.png" width="250" height="auto" />
+
+Our team implemented the code for the deep learning module in the programme using Jupyter Notebook, a web-based interactive computing platform, in order to recognise and analyse people who will be entering the Lotus mall. To train and test the given data, we additionally use the face mask detection dataset from Kaggle. More data may be supplied for testing and training so that our system operates more accurately.
 
 #### Intelligent System Architecture:
 The proposed neural network is WPOD-Net, which is a type of convolution neural network.
