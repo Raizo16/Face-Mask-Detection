@@ -51,4 +51,4 @@ Below is the outcome:
 <img src="assets/Implementation/Chart7.png" width="100%">
 
 <br><br><br>
-##### Next: [Project Execution](D-PROJECT_EXECUTION.md)
+##### Next: [Project Execution](https://github.com/Raizo16/Face-Mask-Detection/blob/main/D.%20PROJECT%20EXECUTION.md)
