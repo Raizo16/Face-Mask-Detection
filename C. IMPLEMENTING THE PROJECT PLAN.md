@@ -41,7 +41,7 @@ Below is the outcome:
 |   TOTAL                      |RM 556300                        |  Estimated     |                              |
 
 ### Milestone Chart
-#### Microsoft Project:
+#### Smartsheet:
 <img src="assets/Implementation/Chart1.png" width="100%">
 <img src="assets/Implementation/Chart2.png" width="100%">
 <img src="assets/Implementation/Chart3.png" width="100%">
