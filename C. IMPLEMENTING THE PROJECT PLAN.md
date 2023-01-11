@@ -33,7 +33,7 @@ Below is the outcome:
 
 | Task |  Estimated Costs | Notes |
 |-----|----|----|
-|   Server Maintenance         |$24000                         |  Monthly Cloud Server      |      
+|   Server Maintenance         |RM 104940                         |  Monthly Cloud Server      |      
 |   Construction supervision   |$30000                         | Supervision on the project | 
 |   Cultural resources         |$72000                         |  Investigate and evaluate undertaking                                                 |                              |
 |   Equipment and equipment use|$800                           | Equipment preparation and setup                                                       |                              |
