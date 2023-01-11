@@ -22,4 +22,4 @@ In our face mask detection system, a camera will be positioned at the entrance d
 + To develop a dataset that consist of images that showing people that wearing the mask, not wearing the mask and people who wears the mask incorrectly in alarge amount to increase the accuracy of training and testing algorithm of our system so that a more accurate result can be obtained.
 
 <br><br><br>
-##### Next: [Project Planning]([B. PLANNING THE PROJECT.md](https://github.com/Raizo16/Face-Mask-Detection/blob/9cfc6afce4280b3ca0f9950a9e0ed4e0fbf35ded/B.%20PROJECT%20PLANNING.md))
+##### Next: [Project Planning](https://github.com/Raizo16/Face-Mask-Detection/blob/9cfc6afce4280b3ca0f9950a9e0ed4e0fbf35ded/B.%20PROJECT%20PLANNING.md))
