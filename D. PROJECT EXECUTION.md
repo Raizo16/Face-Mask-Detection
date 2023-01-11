@@ -1,4 +1,4 @@
-## D. PROJECT EXECUTION
+## D. EXECUTING THE PROJECT
 
 ### Project Design
 
