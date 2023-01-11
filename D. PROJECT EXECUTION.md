@@ -8,7 +8,7 @@ Example of implementing Face Mask Detection in Lotus's Supermarket
 
 ### Project Coding
 #### Description and Implementation 
-For this system, we implemented the codings using Python programming language inside Jupyter Notebook. The full codings can refer: [Python Coding](face-mask.ipynb)
+For this system, we implemented the codings using Python programming language inside Jupyter Notebook. The full codings can refer: [Python Coding](assets/face-mask.ipynb)
 
 ### Result
 
