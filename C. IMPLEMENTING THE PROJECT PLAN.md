@@ -42,9 +42,9 @@ Below is the outcome:
 
 ### Milestone Chart
 #### Microsoft Project:
-<img src="assets/implementation/QTMT Gantt Chart WBS_Page_1.png" width="100%">
-<img src="assets/implementation/QTMT Gantt Chart WBS_Page_2.png" width="100%">
-<img src="assets/implementation/QTMT Gantt Chart WBS_Page_3.png" width="100%">
+<img src="assets/Implementation/Chart1.png" width="100%">
+<img src="assets/Implementation/Chart2.png" width="100%">
+<img src="assets/Implementation/Chart3.png" width="100%">
 
 <br><br><br>
 ##### Next: [Project Execution](D-PROJECT_EXECUTION.md)
