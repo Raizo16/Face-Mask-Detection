@@ -45,6 +45,10 @@ Below is the outcome:
 <img src="assets/Implementation/Chart1.png" width="100%">
 <img src="assets/Implementation/Chart2.png" width="100%">
 <img src="assets/Implementation/Chart3.png" width="100%">
+<img src="assets/Implementation/Chart4.png" width="100%">
+<img src="assets/Implementation/Chart5.png" width="100%">
+<img src="assets/Implementation/Chart6.png" width="100%">
+<img src="assets/Implementation/Chart7.png" width="100%">
 
 <br><br><br>
 ##### Next: [Project Execution](D-PROJECT_EXECUTION.md)
