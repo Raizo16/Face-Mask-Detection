@@ -33,12 +33,12 @@ Below is the outcome:
 
 | Task |  Estimated Costs | Notes |
 |-----|----|----|
-|   Server Maintenance         |RM 104940                         |  Monthly Cloud Server      |      
-|   Construction supervision   |$30000                         | Supervision on the project | 
-|   Cultural resources         |$72000                         |  Investigate and evaluate undertaking                                                 |                              |
-|   Equipment and equipment use|$800                           | Equipment preparation and setup                                                       |                              |
-|   Project signs              |$400                           |  Installation of project signs     |                            |
-|   TOTAL                      |$127200                        |  Estimated     |                              |
+|   Server Maintenance         |RM 105000                         |  Monthly Cloud Server      |      
+|   Construction supervision   |RM 131200                         | Supervision on the project | 
+|   Cultural resources         |RM 314850                         |  Investigate and evaluate undertaking                                                 |                              |
+|   Equipment and equipment use|RM 3500                           | Equipment preparation and setup                                                       |                              |
+|   Project signs              |RM 1750                           |  Installation of project signs     |                            |
+|   TOTAL                      |RM 556300                        |  Estimated     |                              |
 
 ### Milestone Chart
 #### Microsoft Project:
