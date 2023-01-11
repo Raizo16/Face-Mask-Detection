@@ -16,4 +16,4 @@ In this project, the system will identify three types of conditions which are wi
 <img src="assets/Implementation/confusion_matrix.png" width="300" height="auto" />
 
 <br><br><br>
-##### Next: [Project Closing](E. PROJECT CLOSING.md)
+#### Next: [Project Closing](https://github.com/Raizo16/Face-Mask-Detection/blob/8149d6d94238dc1f998072ca4b9c6551de5bd548/E.%20PROJECT%20CLOSING.md)
