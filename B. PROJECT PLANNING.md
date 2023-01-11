@@ -10,11 +10,11 @@ The Gantt Chart used to describe and document the project management life cycle 
 ### Scope
 A Work Breakdown Structure (WBS) is created to map out all of the necessary tasks and to develop the process that will be maintained and approved for the WBS.
 
-Integration of facial recognition software with the cameras to detect and recognize individuals wearing face masks.
+1. Integration of facial recognition software with the cameras to detect and recognize individuals wearing face masks.
 
-Implementation of a system that can automatically notify mall security or staff if an individual is not wearing a face mask, or if the mask is not worn properly.
+2. Implementation of a system that can automatically notify mall security or staff if an individual is not wearing a face mask, or if the mask is not worn properly.
 
-Integration of the face mask detection system with the mall's security and access control systems to ensure that only individuals wearing face masks are allowed entry into the mall.
+3. Integration of the face mask detection system with the mall's security and access control systems to ensure that only individuals wearing face masks are allowed entry into the mall.
 
 ### Risk Identification Chart (Quality, Cost, Time)
 
